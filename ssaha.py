@@ -8,10 +8,6 @@ SSAHA: A Fast Search Method for Large DNA Databases
 www.genome.org/cgi/doi/10.1101/gr.194201
 
 Programmed using Python 3.8.5
-
-Some inspirations come from:
-github.com/Lygeri-Sakellaridi/Custom-Implementations-of-Bioinformatics-Algorithms/blob/e2ba8063bb916cae38c033941e38fa2e381a0d02/ssaha.py
-
 """
 
 # Import Packages
